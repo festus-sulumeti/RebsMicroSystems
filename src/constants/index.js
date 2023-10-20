@@ -25,21 +25,21 @@ export const features = [
     icon: star,
     title: "Rewards",
     content:
-      "The best credit cards offer some tantalizing combinations of promotions and prizes",
+      "For our loyal clients, we offer free 2 months internet services with no pay. We ensure they have the best ",
   },
   {
     id: "feature-2",
     icon: shield,
     title: "100% Secured",
     content:
-      "We take proactive steps make sure your information and transactions are secure.",
+      "We take proactive steps by making sure that the clients information is safe while browsing through our internet.",
   },
   {
     id: "feature-3",
     icon: send,
-    title: "Balance Transfer",
+    title: "Instant Transfer",
     content:
-      "A balance transfer credit card can save you a lot of money in interest charges.",
+      "By ensuring that our clients get the best internet services, we make sure that the internet is fast and reliable.",
   },
 ];
 
@@ -73,18 +73,18 @@ export const feedback = [
 export const stats = [
   {
     id: "stats-1",
-    title: "User Active",
+    title: "Active Users",
     value: "100+",
   },
   {
     id: "stats-2",
-    title: "Trusted by Company",
+    title: "Trusted Businesses",
     value: "30+",
   },
   {
     id: "stats-3",
-    title: "Transaction",
-    value: "$230M+",
+    title: "Internet Access",
+    value: "10+",
   },
 ];
 
